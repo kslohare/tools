@@ -1,4 +1,6 @@
 # Essential Git Commands Cheatsheet
+git commit -am "Update file1 and remove file2"
+
 ## `git config`
 
 *   **Description:** Configure Git settings (user name, email, editor, etc.) either globally (for all projects) or locally (for the current project).

@@ -3,6 +3,19 @@
 ## Command Palette: 
 The most powerful shortcut! Ctrl+Shift+P / Cmd+Shift+P opens the Command Palette, where you can search for and run almost any command, often seeing its shortcut key listed.
 
+## Add project in current workspace
+If you already have a VS Code window open and want to add another project folder to that same window (creating a multi-root workspace), use the -a or --add flag:
+code -a /path/to/another/project/folder
+or
+code --add /path/to/another/project/folder
+
+## Remove project from current workspace
+Using the File Explorer (Most Common)
+Make sure the VS Code window containing the workspace is active.
+Go to the File Explorer sidebar (the top icon on the left, looks like documents).
+Right-click on the root folder you want to remove from the workspace.
+Select "Remove Folder from Workspace" from the context menu.
+
 ## Basic Editing
 
 Cut line (empty selection): Ctrl+X / Cmd+X
