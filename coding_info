@@ -1,0 +1,14 @@
+# Buggy Application code: Sowftware code containing errors,defects or glitches that cause the program to malfunction.
+Causes:
+- Hasty Coding
+- Insufficient Testing (Unit Testing, End to End Testing)
+- Complex Code
+- Inconsistent code style
+- Uncounted edge cases
+- Concurrency Issue
+- External Libraries
+- Poor Documentation
+- Data Issues
+
+
+#
